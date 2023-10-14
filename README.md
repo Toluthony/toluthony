@@ -1,7 +1,7 @@
 Hello there! 👋 Toluthony here
 
-- 👀 I’m interested in - building games for kids, developing website
-- 🌱 I’m currently learning coding to bring my pet project to life
+- 👀 I’m interested in - building games for kids and developing website
+- 🌱 I’m currently learning coding to bring my pet projects to life
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me via toluanthony34@gmail.com
 

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Toluthony
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 You can reach me via toluanothony34@gmail.com
 
 <!---
 Toluthony/Toluthony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

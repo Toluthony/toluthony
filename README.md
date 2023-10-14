@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toluthony
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in - building games for kids, developing website
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me via toluanothony34@gmail.com
